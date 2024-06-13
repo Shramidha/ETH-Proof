@@ -8,7 +8,7 @@ MyToken contracts is the baisc cryptocurrency token contracts that has been depl
 ### Installing
 1) Clone the repository to your local machine using:
 ```
-git clone 
+git clone https://github.com/Shramidha/ETH-Proof/blob/main/ETH_Assessment
 ```
 
 2) Ensure you have the necessary developmemt environment for Solidity like Remix IDE.You can use Remix as it is an online IDE for Solidity. To get started, go to the Remix website at https://remix.ethereum.org/.
